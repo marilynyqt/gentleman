@@ -46,7 +46,7 @@ body{
 	background: #848484;
 }
 .imag{
-	padding: 20px;
+	padding: 30px;
 	background: white;
 }
 .lista a{
@@ -54,6 +54,9 @@ body{
 }
 .imagenes img{
 padding: 9px;
+}
+.esp {
+	padding: 5px 20px;
 }
 .opacity{
 	opacity: 0.7;
