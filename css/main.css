@@ -1,0 +1,61 @@
+body{
+	background: #BDBDBD;
+}
+.menu{
+	width: 100%;
+	background: #2E2E2E;
+}
+.list a,.menu h3{
+	color: white;
+}
+.list a:hover{
+	color: #B4045F;
+}
+.menu span{
+	 font-family: 'Dosis';
+	 font-size:;
+	   src: local('Dosis SemiBold') 
+	   font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTRWV49_lSm1NYrwo-zkhivY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+.menu h3{
+	font-family: 'Open Sans';
+
+}
+.wordpress{
+	background: white;
+	padding: 30px;
+}
+.wordpress img{
+	width: 100%;
+}
+.wordpress h2{
+	font-family: 'Open Sans';
+	margin:2px 10px 2px ;
+}
+.wordpress p{
+	display: table;
+	margin: 15px 10px 0;
+}
+.btn{
+	margin: 20px 0;
+	color: white;
+	background: #848484;
+}
+.imag{
+	padding: 20px;
+	background: white;
+}
+.lista a{
+	color: black;
+}
+.imagenes img{
+	margin: 2px;
+padding: 9px;
+}
+.opacity{
+	opacity: 0.7;
+}
